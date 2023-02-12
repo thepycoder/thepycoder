@@ -14,10 +14,6 @@ I'm a Developer Advocate at <a href="https://clear.ml">ClearML</a> where I'm the
 My freelancer business is called <a href="https://projectwhy.be">Project Why</a>.
 </p>
 
-<hr />
-<br />
-<br />
-
 <div align=center>
 
 🌍 I live somewhere in Belgium
